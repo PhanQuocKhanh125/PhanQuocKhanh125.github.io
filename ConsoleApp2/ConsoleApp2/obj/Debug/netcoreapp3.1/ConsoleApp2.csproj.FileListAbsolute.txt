@@ -10,3 +10,4 @@ E:\Phát triển phần mềm quản lý\ConsoleApp2\ConsoleApp2\bin\Debug\netco
 E:\Phát triển phần mềm quản lý\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
 E:\Phát triển phần mềm quản lý\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
 E:\Phát triển phần mềm quản lý\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
+E:\Phát triển phần mềm quản lý\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache

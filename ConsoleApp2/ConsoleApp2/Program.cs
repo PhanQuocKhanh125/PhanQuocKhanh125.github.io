@@ -6,9 +6,9 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            
 
-            Console.WriteLine("Nhap vao a: ");
+            Console.WriteLine("Giai phuong trinh bac nhat co dang: ax + b = 0");
+            Console.Write("Nhap vao a: ");
             float a = float.Parse(Console.ReadLine());
 
             if (a == 0)
@@ -17,7 +17,7 @@ namespace ConsoleApp2
             }
             else
             {
-                Console.WriteLine("Nhap vao b: ");
+                Console.Write("Nhap vao b: ");
                 float b = float.Parse(Console.ReadLine());
 
                 float x = -b / a;
